@@ -3,7 +3,7 @@ class Fabric < Formula
   homepage "https://github.com/deciphernow/gm-fabric-go.git"
 
   url "https://github.com/DecipherNow/gm-fabric-go/archive/v0.1.1.tar.gz"
-  sha256 "aa16d6d8aefc9c65e6e30f476c51e05def9cd060c269241a510849d95459c937"
+  sha256 "058a46fcfb0e4f1fcd844bfdfe3a247ca825463f3666157e3d16f650b54baf95"
 
   head "https://github.com/deciphernow/gm-fabric-go.git"
 
