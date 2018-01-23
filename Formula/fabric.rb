@@ -2,8 +2,8 @@ class Fabric < Formula
   desc "Command-line utilities for Grey Matter Fabric"
   homepage "https://github.com/deciphernow/gm-fabric-go.git"
 
-  url "https://github.com/DecipherNow/gm-fabric-go/archive/v0.1.0.tar.gz"
-  sha256 "76a3009c2dc9d748aaed19eba29d5bb85e579bdadb1d779860d0475312ae4ddb"
+  url "https://github.com/DecipherNow/gm-fabric-go/archive/v0.1.1.tar.gz"
+  sha256 "aa16d6d8aefc9c65e6e30f476c51e05def9cd060c269241a510849d95459c937"
 
   head "https://github.com/deciphernow/gm-fabric-go.git"
 
